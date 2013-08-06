@@ -1,4 +1,4 @@
-                                Building
+Building
 ==========================================================================
 
 The build process is essentially the same as for NeHe-SFML2.

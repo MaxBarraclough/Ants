@@ -1,4 +1,4 @@
-                               About 'Ants'
+About 'Ants'
 ==========================================================================
 
 Unleashes [Lanton's Ants](https://en.wikipedia.org/wiki/Langton%27s_Ant)
@@ -13,14 +13,12 @@ Usage: ants <image> <number of ants>
 
 e.g    ants ./in.bmp 3
 
-
-                              Disclaimer
+Disclaimer
 ==========================================================================
 
 It's fairly bad. No proper testing, and uses antique OpenGL (and probably wrongly).
 
-
-                              See Also
+See Also
 ==========================================================================
 [building.md](https://github.com/MaxBarraclough/Ants/blob/master/building.md)
 

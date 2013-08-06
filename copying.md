@@ -1,4 +1,4 @@
-                         Credits, Copyright, License
+Credits, Copyright, License
 ==========================================================================
 
 Copyright Max Barraclough, 2013.
