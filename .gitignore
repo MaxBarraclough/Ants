@@ -1,0 +1,17 @@
+obj/
+bin/
+*.exe
+*.depend
+*.layout
+
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
+CPackConfig.cmake
+CPackSourceConfig.cmake
+config.h
+
+ants
+
